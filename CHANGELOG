@@ -1,0 +1,16 @@
+wp-rdfa Change Log
+~~~~~~~~~~~~~~~~~~
+Richard Harvey (richard__at____squarecows___dot_com)
+
+20/04/2009 - Version 0.3
+* Bug fix for FOAF.php, subscriber level threw exception
+* Bug fix for wp-rdfa-options.php, contributor and subscriber level options not saved.
+* Thanks to Joss Winn for pointing these bugs out :)
+
+08/04/2009 - Version 0.2
+* Added dublin core support inline for posts
+* Added new options on the admin page
+
+04/04/09 - Version 0.1 (initial version)
+* Created base plugin with support for FOAF publishing.
+* Completed admin page for setting FOAF options.
